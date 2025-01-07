@@ -2,6 +2,6 @@
 ## Please select from the list of services below:  
 
 
-link: raspberry.hingcloud.org
-link: req.hingcloud.org
-link: qbit.hingcloud.org
+[Jellyfin](https://raspberry.hingcloud.org)
+[Jellyseerr](req.hingcloud.org)
+[Qbittorrent](qbit.hingcloud.org)
