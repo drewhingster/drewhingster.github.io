@@ -3,5 +3,5 @@
 
 
 #### [Jellyfin](https://raspberry.hingcloud.org)
-#### [Jellyseerr](req.hingcloud.org)
-#### [Qbittorrent](qbit.hingcloud.org)
+#### [Jellyseerr](https://req.hingcloud.org)
+#### [Qbittorrent](https://qbit.hingcloud.org)
